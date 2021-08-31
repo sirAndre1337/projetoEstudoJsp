@@ -21,8 +21,8 @@ public class EnviaEmail {
 		</dependency>
 	*/
 
-	private String userName = "andretestemail17@gmail.com";
-	private String senha = "Andre1995";
+	private String userName = ""; // email do gmail
+	private String senha = ""; // senha do gmail
 
 	private String listaDestinatarios = "";
 	private String nomeRemetente = "";
